@@ -6,12 +6,12 @@ End-to-end Customer Churn Analysis &amp; Prediction using Python, and Machine Le
 - Customer churn is a critical business problem, as acquiring new customers is more expensive than retaining existing ones. This project helps businesses identify high-risk customers and take preventive actions.
 
 # Objectives
-Analyze customer data to identify churn patterns
-Perform data cleaning and preprocessing
-Conduct Exploratory Data Analysis (EDA)
-Build a machine learning model to predict churn
-Evaluate model performance using classification metrics
-Provide business insights and recommendations
+ - Analyze customer data to identify churn patterns
+ - Perform data cleaning and preprocessing
+ - Conduct Exploratory Data Analysis (EDA)
+ - Build a machine learning model to predict churn
+ - Evaluate model performance using classification metrics
+ - Provide business insights and recommendations
 
 # Tools & Technologies
  - Python
@@ -21,12 +21,12 @@ Provide business insights and recommendations
 
 # Dataset
 - Dataset contains customer information such as:
-    -- Gender
-    -- Tenure
-    -- Contract Type
-    -- Payment Method
-    -- Internet Service
-    -- Target Variable: Customer Status : Churn (Yes/No)
+    ## Gender
+    ## Tenure
+    ## Contract Type
+    ## Payment Method
+    ## Internet Service
+    ## Target Variable: Customer Status : Churn (Yes/No)
   
 # Project Workflow
 ## 1️. Data Preprocessing
@@ -50,11 +50,11 @@ Provide business insights and recommendations
    
 ## 5. Model Evaluation
  - Evaluated using:
-    -- Accuracy
-    -- Precision
-    -- Recall
-    -- F1-Score
-    -- Confusion Matrix
+    ## Accuracy
+    ## Precision
+    ## Recall
+    ## F1-Score
+    ## Confusion Matrix
 
 # Key Insights
  - Churn rate of females are higher than male 
