@@ -21,12 +21,12 @@ End-to-end Customer Churn Analysis &amp; Prediction using Python, and Machine Le
 
 # Dataset
 - Dataset contains customer information such as:
-    ## Gender
-    ## Tenure
-    ## Contract Type
-    ## Payment Method
-    ## Internet Service
-    ## Target Variable: Customer Status : Churn (Yes/No)
+   - Gender
+   - Tenure
+   - Contract Type
+   - Payment Method
+   - Internet Service
+   - Target Variable: Customer Status : Churn (Yes/No)
   
 # Project Workflow
 ## 1️. Data Preprocessing
@@ -50,11 +50,11 @@ End-to-end Customer Churn Analysis &amp; Prediction using Python, and Machine Le
    
 ## 5. Model Evaluation
  - Evaluated using:
-    ## Accuracy
-    ## Precision
-    ## Recall
-    ## F1-Score
-    ## Confusion Matrix
+    - Accuracy
+    - Precision
+    - Recall
+    - F1-Score
+    - Confusion Matrix
 
 # Key Insights
  - Churn rate of females are higher than male 
